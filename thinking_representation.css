@@ -1,0 +1,15 @@
+.random-style-1{
+    font-size:25px;
+    text-decoration:underline;
+    letter-spacing:250px
+    font-weight:bold;
+    text-shadow:3px 1px blue;
+    text-size:250px;
+    color:white;
+}
+
+.random-style-2{
+    font-size:50px;
+    font-weight:italic;
+    color:blue;
+}
